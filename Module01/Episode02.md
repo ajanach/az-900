@@ -15,4 +15,4 @@ In fact, in the current scale, Microsoft can already offer multiple services for
 
 - **small companies usually have a high price per unit due to their scale**
 
-<img src=".\Images\costPerUnit.png" alt="costPerUnit.png" />
+<img src="..\Images\costPerUnit.png" alt="costPerUnit.png" />
