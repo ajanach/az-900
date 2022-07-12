@@ -18,7 +18,7 @@
         - photo, autdio
         - video, social media
 
-<img src="..\Images\azureSphere.png" alt="azureSphere.png" />
+<img src="..\Images\bigData.png" alt="bigData.png" />
 
 ## Azure Synapse Analytics: 
 - big data analytics platform (PaaS)
