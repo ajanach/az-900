@@ -38,7 +38,7 @@
 
 <img src="..\Images\azureHDInsight.png" alt="azureHDInsight.png" />
 
-## Azure Databrics
+## Azure Databricks
 - big data collaboration platform (PaaS)
 - unified workspace for notebook, cluster, data, access management and collaboration
 - based on Apache Spark
