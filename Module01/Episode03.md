@@ -22,5 +22,5 @@
 
 ### Differences:
 
-<img src="..\Images\differencesCapExOpEx.png" alt="differencesCapExOpEx.png" />
+<img src="..\Images\DifferencesCapExOpEx.png" alt="DifferencesCapExOpEx.png.png" />
 
