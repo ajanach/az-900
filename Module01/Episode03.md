@@ -22,5 +22,5 @@
 
 ### Differences:
 
-<img src="..\Images\differencesCapExOpEx.png" alt="costPerUnit.png" />
+<img src="..\Images\differencesCapExOpEx.png" alt="differencesCapExOpEx.png" />
 
