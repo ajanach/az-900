@@ -10,7 +10,7 @@
     - hardware failures
     - others
 
-<img src=".\Images\CapEx.png" alt="CapEx.png" />
+<img src="..\Images\CapEx.png" alt="CapEx.png" />
 
 ### OpEx:
 - rent infrastructure
@@ -18,7 +18,7 @@
 - minimal maintenance
     - operations team
 
-<img src=".\Images\OpEx.png" alt="OpEx.png" />
+<img src="..\Images\OpEx.png" alt="OpEx.png" />
 
 ### Differences:
 
