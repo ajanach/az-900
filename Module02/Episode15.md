@@ -18,7 +18,7 @@
         - photo, autdio
         - video, social media
 
-<img src="..\Images\azureSphere.png" alt="azureSphere.png" />
+<img src="..\Images\bigData.png" alt="bigData.png" />
 
 ## Azure Synapse Analytics: 
 - big data analytics platform (PaaS)
@@ -38,7 +38,7 @@
 
 <img src="..\Images\azureHDInsight.png" alt="azureHDInsight.png" />
 
-## Azure Databrics
+## Azure Databricks
 - big data collaboration platform (PaaS)
 - unified workspace for notebook, cluster, data, access management and collaboration
 - based on Apache Spark

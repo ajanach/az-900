@@ -14,7 +14,7 @@
 - highly durable (99.999999999% - 11 nines, up to 16 nines)
 - cheapest per GB storage
 
-<img src="..\Images\storageAcc..png" alt="storageAcc..png" />
+<img src="..\Images\storageAcc.png" alt="storageAcc.png" />
 
 ## Blob Storage:
 - BLOB - binary large object - file
