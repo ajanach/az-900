@@ -11,5 +11,3 @@
 - fully integrated with azure monitor for logging and analytics
 
 <img src="..\Images\azureFirewall.png" alt="azureFirewall.png" />
-
-- 
