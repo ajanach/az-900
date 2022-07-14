@@ -13,3 +13,4 @@
 ## Bandwidth (ingress and egress):
 - network traffic when uploading (nbound/ingress) data to azure or downloading (outbound/egress) from azure
 
+ 
